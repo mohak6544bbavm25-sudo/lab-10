@@ -1,1 +1,13 @@
-# lab-10
+## LAB 10 – Aviation Image Generation: Description
+
+Lab 10 focused on understanding how Generative AI can be used to create professional aviation-related visuals through carefully designed text prompts. The activity explained the difference between **image retrieval and image generation**. Image retrieval involves finding an existing image from a source, while image generation creates a new visual based on written instructions. The lab also highlighted that AI-generated images must be reviewed because they may contain inaccurate aircraft structures, airport equipment, signs, passenger behaviour or other operational details.
+
+A major part of the activity was learning the **five essential components of an effective image prompt: subject, medium or style, environment, lighting and aspect ratio**. A weak prompt such as “Create an airport image” was compared with a structured prompt describing young adult travellers, a modern airport terminal, professional photorealistic style, natural daylight and a 16:9 landscape format. This demonstrated how detailed prompts provide better control over the generated visual.
+
+The lab also introduced **single-variable refinement**, where only one instruction is changed at a time. Changes were made to style, lighting, aspect ratio and environment to understand their individual effects on the final image. Another important concept was **prompt bleed**, where one instruction unintentionally affects other elements of the generated image. The activity showed how targeted corrective instructions can be used to remove unwanted logos, text, personal information and unrealistic airport elements.
+
+An **aviation accuracy audit** and **professionalism audit** were also conducted to check aircraft structures, passenger behaviour, airport equipment, walkways, branding, composition and overall suitability. The activity further covered responsible AI use, including avoiding unauthorised airline logos, protecting personal information, avoiding stereotypes and preventing AI-generated visuals from being mistaken for authentic operational photographs.
+
+Three aviation visuals were developed for different purposes: **airline marketing, airport passenger awareness and aviation presentations**. Each visual used a structured five-part prompt and was reviewed for possible inaccuracies.
+
+Overall, Lab 10 demonstrated that effective AI image generation requires more than simply entering a short prompt. Clear instructions, controlled refinement, aviation accuracy checks, ethical considerations and human review are essential for producing reliable and professional aviation visuals. The completed work can be included in the GitHub portfolio under the **Day 10 Image Generation** section.
